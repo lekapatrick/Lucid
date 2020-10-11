@@ -1,0 +1,60 @@
+.jumb{
+    height: 640px;
+    margin-top: -77px;
+    background-image: url(../../assets/img/photo@2x.jpg);
+}
+.img_src{
+    background-image: url(../../assets/img/photo@2x.jpg);
+}
+.overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+  }
+.primary_btn{
+    width: 160px;
+  height: 50px;
+  border-radius: 3.8px;
+  box-shadow: 0 0 3px 0 rgba(3, 3, 3, 0.1);
+  /* background-color: #008ed6; */
+}
+.devices-kopia {
+    width: 505px;
+    height: 519px;
+    object-fit: contain;
+  }
+  .Elipsa-1 {
+    width: 88px;
+    height: 88px;
+    border: solid 1px #e0e0e0;
+    background-color: #ffffff;
+    margin-left: 41%;
+    border-radius: 50%;
+  }
+  .Monitor {
+    width: 32px;
+    height: 26px;
+    object-fit: contain;
+    margin-top: 35%;
+    /* background-color: #008ed6; */
+  }
+  .p_custom{
+    width: 71%;
+    padding-left: 29%;
+  }
+  .Prostokt-2-kopia {
+    width: 42px;
+    height: 2px;
+    object-fit: contain;
+    background-color: #008ed6;
+  }
+  .devices {
+    width: 510px;
+    height: 621px;
+    object-fit: contain;
+  }
+  

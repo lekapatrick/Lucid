@@ -1,0 +1,14 @@
+.lucid{
+    width: 75px;
+    /* height: 21px; */
+    object-fit: contain;
+    font-family: Ubuntu;
+    font-size: 28px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.07;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}

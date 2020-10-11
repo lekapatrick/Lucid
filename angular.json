@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lucid"
+    }
+  },
+  "defaultProject": "lucid",
+  "cli": {
+    "analytics": "60250bfc-8fcc-4547-b64d-51626bf7e92a"
+  }
 }
